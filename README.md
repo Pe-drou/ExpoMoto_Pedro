@@ -1,4 +1,4 @@
-# Retomada final de html e css
+# Criação de site em html e css
 - Exercício feito em sala seguindo os passos de criação de um site, começando com um manual de marca e protótipos de desktop e mobile, depois fazendo o site em html e css
 
 ### Imagens do site pronto:
